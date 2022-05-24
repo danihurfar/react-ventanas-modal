@@ -9,7 +9,7 @@ const Modal = ({ estadoGoGreen, cambiarGoGreen }) => {
     return (
         <>
             {estadoGoGreen &&
-                <Overlay>
+                <Overlay> //prueba
                     <ContenedorModal>
                         <div className="container mt-3">
                             <div className="row ">
